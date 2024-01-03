@@ -12,5 +12,6 @@ export default defineConfig({
           assets: '/src/assets'
         },
       },
+      //test
       base: '/fs-84-react-node-Tasitaforme/',
     });
