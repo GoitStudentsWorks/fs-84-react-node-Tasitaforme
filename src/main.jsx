@@ -16,7 +16,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate loading={<Loader />} persistor={persistor}>
-        <BrowserRouter basename="/healthy-way">
+        <BrowserRouter basename="/fs-84-react-node-Tasitaforme">
           <GlobalStyle />
           <App />
         </BrowserRouter>
